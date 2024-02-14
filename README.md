@@ -16,3 +16,5 @@ This is a template for a customized welcome page. This HTML block can be shown o
 
 1. Restart JATOS
 1. You can update your welcome page at any time to add new information (e.g. anouncement of JATOS maintance work) and the changed page will be use immediately. 
+
+credit - kristian-lange - 
